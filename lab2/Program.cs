@@ -26,8 +26,11 @@ internal class Program
         // LeapYear obj = new LeapYear();
         // obj.leapYearCheck();
 
-        SumOfArray obj = new SumOfArray();
-        obj.sumOfArray();
+        // SumOfArray obj = new SumOfArray();
+        // obj.sumOfArray();
+
+        Factorial obj = new Factorial();
+        obj.findFactorial();
     }
 
 }
