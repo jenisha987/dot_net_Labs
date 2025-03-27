@@ -14,8 +14,11 @@ internal class Program
         // swap_two_numbers obj = new swap_two_numbers();
         // obj.swapNumber();
 
-        largestNum obj = new largestNum();
-        obj.largestNumber();
+        // largestNum obj = new largestNum();
+        // obj.largestNumber();
+
+        oddEven obj = new oddEven();
+        obj.findOddEven();
     }
 
 }
