@@ -8,7 +8,11 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        print_helloname obj = new print_helloname();
-        obj.display();
+        // print_helloname obj = new print_helloname();
+        // obj.display();
+
+        swap_two_numbers obj = new swap_two_numbers();
+        obj.swapNumber();
     }
+
 }
