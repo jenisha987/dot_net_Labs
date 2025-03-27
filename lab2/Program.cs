@@ -17,8 +17,11 @@ internal class Program
         // largestNum obj = new largestNum();
         // obj.largestNumber();
 
-        oddEven obj = new oddEven();
-        obj.findOddEven();
+        // oddEven obj = new oddEven();
+        // obj.findOddEven();
+
+        SumOfNum obj = new SumOfNum();
+        obj.SumofNaturalNum();
     }
 
 }
