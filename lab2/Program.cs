@@ -29,8 +29,11 @@ internal class Program
         // SumOfArray obj = new SumOfArray();
         // obj.sumOfArray();
 
-        Factorial obj = new Factorial();
-        obj.findFactorial();
+        // Factorial obj = new Factorial();
+        // obj.findFactorial();
+
+        PrimeCheck obj = new PrimeCheck();
+        obj.primeCheck();
     }
 
 }
