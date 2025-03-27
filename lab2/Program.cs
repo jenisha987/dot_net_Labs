@@ -23,8 +23,11 @@ internal class Program
         // SumOfNum obj = new SumOfNum();
         // obj.SumofNaturalNum();
 
-        LeapYear obj = new LeapYear();
-        obj.leapYearCheck();
+        // LeapYear obj = new LeapYear();
+        // obj.leapYearCheck();
+
+        SumOfArray obj = new SumOfArray();
+        obj.sumOfArray();
     }
 
 }
