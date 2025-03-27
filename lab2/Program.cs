@@ -20,8 +20,11 @@ internal class Program
         // oddEven obj = new oddEven();
         // obj.findOddEven();
 
-        SumOfNum obj = new SumOfNum();
-        obj.SumofNaturalNum();
+        // SumOfNum obj = new SumOfNum();
+        // obj.SumofNaturalNum();
+
+        LeapYear obj = new LeapYear();
+        obj.leapYearCheck();
     }
 
 }
