@@ -1,6 +1,6 @@
-#Dot Net Lab Works
+# Dot Net Lab Works
 
-#lab-2: deals with C# program:
+# lab-2: deals with C# program:
   1. to print hello and your name in a separate line.
   2. to swap two numbers.
   3. to find the largest among three numbers.
@@ -10,3 +10,5 @@
   7. to create an integer array and print sum of array elements.
   8. to calculate the factorial of a given number.
   9. to check if input number is a prime or not.
+
+
