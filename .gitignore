@@ -4,3 +4,7 @@ lab2/lab2.csproj
 oopclass/bin/
 oopclass/obj/
 oopclass/oopclass.csproj
+winforms/bin/
+winforms/obj/
+winforms/winforms.csproj
+winforms/.vs
